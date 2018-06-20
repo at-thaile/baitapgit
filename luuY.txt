@@ -1,0 +1,18 @@
+chia 3 phần
+header class="page-header"
+main class="page-main"
+footer class="page-main"
+
+
+Chia section
+Mỗi section nên có thẻ h
+aside thì "sidebar-left" hoặc "sidebar-right"
+nav thì class="pagination"
+
+Ví dụ như 
+Home->product thì là class="breadcrumb"
+slide dùng thư viện slideshow
+
+
+
+để lấy 1 nhánh dùng git fetch origin <tên branch>:<tên branch>
